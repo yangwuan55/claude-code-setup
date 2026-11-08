@@ -1,0 +1,6 @@
+{
+  "CLAUDE_MEM_RUNTIME": "worker",
+  "CLAUDE_MEM_PROVIDER": "openai-compatible",
+  "CLAUDE_MEM_OPENAI_COMPAT_PRESET": "opencode-go",
+  "CLAUDE_MEM_OPENAI_COMPAT_MODEL": "deepseek-v4.1-flash"
+}
